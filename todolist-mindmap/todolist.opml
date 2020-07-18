@@ -1,304 +1,177 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
   <head>
-    <title></title>
-    <dateModified></dateModified>
-    <ownerName></ownerName>
+    <title>todolist</title>
+    <expansionState></expansionState>
   </head>
   <body>
-<outline text="BUROCRACIAS">
-  <outline text="BUROCRACIAS: inscrição HCII 2020">
-  </outline>
-  <outline text="BUROCRACIAS: pedir reembolso NIME 2020">
-  </outline>
-  <outline text="BUROCRACIAS: preencher formulário de trabalho">
-  </outline>
-</outline>
-<outline text="CAMORF">
-  <outline text="CAMORF: ferramentas para caixas morfológicas">
-  </outline>
-  <outline text="CAMORF: image-to-morphbox">
-  </outline>
-  <outline text="CAMORF: text-to-morphbox">
-  </outline>
-</outline>
-<outline text="CARTAS">
-  <outline text="CARTAS: desenhos e decalques no iPad">
-  </outline>
-  <outline text="CARTAS: iot-cards">
-  </outline>
-  <outline text="CARTAS: jogo da gambiarra">
-  </outline>
-  <outline text="CARTAS: parametrização das cartas">
-  </outline>
-</outline>
-<outline text="CIN-IAI">
-  <outline text="CIN-IAI: preparar aulas no Jupyter">
-  </outline>
-</outline>
-<outline text="CIN-IP">
-  <outline text="CIN-IP: preparar aula de Turtle">
-  </outline>
-  <outline text="CIN-IP: revisar aulas no Jupyter">
-  </outline>
-</outline>
-<outline text="CIN-SI">
-  <outline text="CIN-SI: preparar aulas no Jupyter">
-  </outline>
-</outline>
-<outline text="CURSOS">
-  <outline text="CURSOS: Harvard Artificial Intelligence">
-  </outline>
-  <outline text="CURSOS: Kadenze Faust">
-  </outline>
-  <outline text="CURSOS: Kadenze Nature of Code">
-  </outline>
-</outline>
-<outline text="DOCUMENTÁRIOS">
-  <outline text="DOCUMENTÁRIOS: Masterclasses">
-  </outline>
-  <outline text="DOCUMENTÁRIOS: Metanoia">
-  </outline>
-</outline>
-<outline text="ENSINO">
-  <outline text="ENSINO: entender mecanismos do The Huxley">
-  </outline>
-  <outline text="ENSINO: estudar GitHub Classroom">
-  </outline>
-  <outline text="ENSINO: estudar plataformas de submissão online">
-  </outline>
-  <outline text="ENSINO: levantar infra-estrutura para aulas online">
-  </outline>
-  <outline text="ENSINO: livros metodologias ativas">
-  </outline>
-  <outline text="ENSINO: mapear formatos de aula online">
-  </outline>
-  <outline text="ENSINO: reformular aula de Busca com Harvard">
-  </outline>
-</outline>
-<outline text="ESCRITA">
-  <outline text="ESCRITA: decks de parágrafos (intro, justificativa, problemas)">
-  </outline>
-  <outline text="ESCRITA: Grande Livro dos Parágrafos (GLP)">
-  </outline>
-  <outline text="ESCRITA: livro imaginário">
-  </outline>
-  <outline text="ESCRITA: parágrafo como card (título, conteúdo, refs)">
-  </outline>
-  <outline text="ESCRITA: Probatio para pesquisadores">
-  </outline>
-</outline>
-<outline text="EXTENSÃO">
-  <outline text="EXTENSÃO: projeto para liga acadêmica">
-  </outline>
-</outline>
-<outline text="GIROMIN">
-  <outline text="GIROMIN: Wifi Manager">
-  </outline>
-</outline>
-<outline text="IDMIL">
-  <outline text="IDMIL: preencher projeto de cooperação">
-  </outline>
-</outline>
-<outline text="LAZER">
-  <outline text="LAZER: ataque aos livros físicos">
-  </outline>
-  <outline text="LAZER: drawing machine na ender3">
-  </outline>
-  <outline text="LAZER: Prophet’08">
-  </outline>
-  <outline text="LAZER: RJ385 controlar DMX">
-  </outline>
-  <outline text="LAZER: ukulele wall mount">
-  </outline>
-</outline>
-<outline text="LEITURAS">
-  <outline text="LEITURAS: After Defense folder">
-  </outline>
-  <outline text="LEITURAS: Python books">
-  </outline>
-  <outline text="LEITURAS: Serrapilheira">
-  </outline>
-  <outline text="LEITURAS: SOG Leituras 2019">
-  </outline>
-  <outline text="LEITURAS: Springer free books">
-  </outline>
-</outline>
-<outline text="PANDIVÁ">
-  <outline text="PANDIVÁ: interface de configuração">
-  </outline>
-</outline>
-<outline text="PESQUISA">
-  <outline text="PESQUISA: analisar conferências ex: TEI">
-  </outline>
-  <outline text="PESQUISA: curso e livro de Briot">
-  </outline>
-  <outline text="PESQUISA: deep MIMO">
-  </outline>
-  <outline text="PESQUISA: estudar MIDI 2.0 MPE">
-  </outline>
-  <outline text="PESQUISA: estudar modularidade (livro)">
-  </outline>
-  <outline text="PESQUISA: investigação sobre construção de sensores">
-  </outline>
-  <outline text="PESQUISA: McPherson Bela Youtube">
-  </outline>
-  <outline text="PESQUISA: MIDI lib para Python">
-  </outline>
-  <outline text="PESQUISA: orientações">
-  </outline>
-  <outline text="PESQUISA: processar o Pinterest">
-  </outline>
-  <outline text="PESQUISA: Prophet">
-  </outline>
-  <outline text="PESQUISA: Python GUI">
-  </outline>
-  <outline text="PESQUISA: resgatar motivações em diagrama do Pinterest">
-  </outline>
-  <outline text="PESQUISA: tangible mapper fichas de poker">
-  </outline>
-</outline>
-<outline text="PROBATIO">
-  <outline text="PROBATIO: adicionar Acks no NIME 2020">
-  </outline>
-  <outline text="PROBATIO: arquitetura do hub">
-  </outline>
-  <outline text="PROBATIO: atualizar site com novas imagens">
-  </outline>
-  <outline text="PROBATIO: brincar com marcas e tiles">
-  </outline>
-  <outline text="PROBATIO: colar imãs nos bottoms">
-  </outline>
-  <outline text="PROBATIO: documentação da montagem">
-  </outline>
-  <outline text="PROBATIO: formular plano de versões">
-  </outline>
-  <outline text="PROBATIO: fotos e vídeos da versão RECIFE">
-  </outline>
-  <outline text="PROBATIO: funcionamento no max">
-  </outline>
-  <outline text="PROBATIO: integração Wekinator">
-  </outline>
-  <outline text="PROBATIO: modelar bellows">
-  </outline>
-  <outline text="PROBATIO: modelar botão mola central">
-  </outline>
-  <outline text="PROBATIO: modelar cradle 1x1">
-  </outline>
-  <outline text="PROBATIO: modelar hand+pot+buttons">
-  </outline>
-  <outline text="PROBATIO: modelar rotary foot controller">
-  </outline>
-  <outline text="PROBATIO: montar cherry">
-  </outline>
-  <outline text="PROBATIO: montar dual-pistons">
-  </outline>
-  <outline text="PROBATIO: montar dummy blocks">
-  </outline>
-  <outline text="PROBATIO: montar four-pistons">
-  </outline>
-  <outline text="PROBATIO: montar four-thumbjoysticks">
-  </outline>
-  <outline text="PROBATIO: montar joystick">
-  </outline>
-  <outline text="PROBATIO: montar obsf-24">
-  </outline>
-  <outline text="PROBATIO: montar obsf-30">
-  </outline>
-  <outline text="PROBATIO: montar rotary">
-  </outline>
-  <outline text="PROBATIO: mood board no Milanote">
-  </outline>
-  <outline text="PROBATIO: mural de sensores (foto)">
-  </outline>
-  <outline text="PROBATIO: nova base 1x1 pendurados">
-  </outline>
-  <outline text="PROBATIO: nova base cano">
-  </outline>
-  <outline text="PROBATIO: nova base sanfona">
-  </outline>
-  <outline text="PROBATIO: novas bases">
-  </outline>
-  <outline text="PROBATIO: organizar tutorial assembly instructions">
-  </outline>
-  <outline text="PROBATIO: physical modeling faust + max">
-  </outline>
-  <outline text="PROBATIO: pogo-pcb com conectores">
-  </outline>
-  <outline text="PROBATIO: processar ideation session">
-  </outline>
-  <outline text="PROBATIO: sensor Air">
-  </outline>
-  <outline text="PROBATIO: sensor capacitive slider">
-  </outline>
-  <outline text="PROBATIO: sensor capacitive touch">
-  </outline>
-  <outline text="PROBATIO: sensor distance-based">
-  </outline>
-  <outline text="PROBATIO: sensor hall effect pick inspired">
-  </outline>
-  <outline text="PROBATIO: sensor LDR">
-  </outline>
-  <outline text="PROBATIO: sensor string-based">
-  </outline>
-  <outline text="PROBATIO: soldar mais pogo-pcbs">
-  </outline>
-  <outline text="PROBATIO: tabela de endereços i2c">
-  </outline>
-  <outline text="PROBATIO: timelapses and photos MTL">
-  </outline>
-  <outline text="PROBATIO: two I2C masters">
-  </outline>
-</outline>
-<outline text="PYTHON">
-  <outline text="PYTHON: dependencies">
-  </outline>
-</outline>
-<outline text="SKILL">
-  <outline text="SKILL: Ableton Live">
-  </outline>
-  <outline text="SKILL: desenho">
-  </outline>
-  <outline text="SKILL: Eagle">
-  </outline>
-  <outline text="SKILL: Fusion 360">
-  </outline>
-  <outline text="SKILL: Git">
-  </outline>
-  <outline text="SKILL: interfaces Web">
-  </outline>
-  <outline text="SKILL: Jupyter">
-  </outline>
-  <outline text="SKILL: Python">
-  </outline>
-</outline>
-<outline text="SOG">
-  <outline text="SOG: artigo memória ncase.me">
-  </outline>
-  <outline text="SOG: caderno ser, ter, fazer">
-  </outline>
-  <outline text="SOG: CLI para lista unificada de processamento">
-  </outline>
-  <outline text="SOG: lista para revisitações">
-  </outline>
-  <outline text="SOG: listar critérios e percepções de produtividade">
-  </outline>
-  <outline text="SOG: organizar Milanote">
-  </outline>
-  <outline text="SOG: organizar o portfolio no CIn">
-  </outline>
-  <outline text="SOG: organizar os HDs antigos">
-  </outline>
-  <outline text="SOG: pensar em workflow de leitura/escrita">
-  </outline>
-  <outline text="SOG: revisitar experiência Empretec">
-  </outline>
-  <outline text="SOG: revisitar materiais do coaching">
-  </outline>
-  <outline text="SOG: softwares para flash cards">
-  </outline>
-  <outline text="SOG: ícones para organização pessoal">
-  </outline>
-</outline>
+    <outline text="BUROCRACIAS">
+      <outline text="BUROCRACIAS: inscrição HCII 2020"/>
+      <outline text="BUROCRACIAS: pedir reembolso NIME 2020"/>
+      <outline text="BUROCRACIAS: preencher formulário de trabalho"/>
+    </outline>
+    <outline text="CAMORF">
+      <outline text="CAMORF: ferramentas para caixas morfológicas"/>
+      <outline text="CAMORF: image-to-morphbox"/>
+      <outline text="CAMORF: text-to-morphbox"/>
+    </outline>
+    <outline text="CARTAS">
+      <outline text="CARTAS: desenhos e decalques no iPad"/>
+      <outline text="CARTAS: iot-cards"/>
+      <outline text="CARTAS: jogo da gambiarra"/>
+      <outline text="CARTAS: parametrização das cartas"/>
+    </outline>
+    <outline text="CIN-IAI">
+      <outline text="CIN-IAI: preparar aulas no Jupyter"/>
+    </outline>
+    <outline text="CIN-IP">
+      <outline text="CIN-IP: preparar aula de Turtle"/>
+      <outline text="CIN-IP: revisar aulas no Jupyter"/>
+    </outline>
+    <outline text="CIN-SI">
+      <outline text="CIN-SI: preparar aulas no Jupyter"/>
+    </outline>
+    <outline text="CURSOS">
+      <outline text="CURSOS: Harvard Artificial Intelligence"/>
+      <outline text="CURSOS: Kadenze Faust"/>
+      <outline text="CURSOS: Kadenze Nature of Code"/>
+    </outline>
+    <outline text="DOCUMENTÁRIOS">
+      <outline text="DOCUMENTÁRIOS: Masterclasses"/>
+      <outline text="DOCUMENTÁRIOS: Metanoia"/>
+    </outline>
+    <outline text="ENSINO">
+      <outline text="ENSINO: entender mecanismos do The Huxley"/>
+      <outline text="ENSINO: estudar GitHub Classroom"/>
+      <outline text="ENSINO: estudar plataformas de submissão online"/>
+      <outline text="ENSINO: levantar infra-estrutura para aulas online"/>
+      <outline text="ENSINO: livros metodologias ativas"/>
+      <outline text="ENSINO: mapear formatos de aula online"/>
+      <outline text="ENSINO: reformular aula de Busca com Harvard"/>
+    </outline>
+    <outline text="ESCRITA">
+      <outline text="ESCRITA: decks de parágrafos (intro, justificativa, problemas)"/>
+      <outline text="ESCRITA: Grande Livro dos Parágrafos (GLP)"/>
+      <outline text="ESCRITA: livro imaginário"/>
+      <outline text="ESCRITA: parágrafo como card (título, conteúdo, refs)"/>
+      <outline text="ESCRITA: Probatio para pesquisadores"/>
+    </outline>
+    <outline text="EXTENSÃO">
+      <outline text="EXTENSÃO: projeto para liga acadêmica"/>
+    </outline>
+    <outline text="GIROMIN">
+      <outline text="GIROMIN: Wifi Manager"/>
+    </outline>
+    <outline text="IDMIL">
+      <outline text="IDMIL: preencher projeto de cooperação"/>
+    </outline>
+    <outline text="LAZER">
+      <outline text="LAZER: ataque aos livros físicos"/>
+      <outline text="LAZER: drawing machine na ender3"/>
+      <outline text="LAZER: Prophet’08"/>
+      <outline text="LAZER: RJ385 controlar DMX"/>
+      <outline text="LAZER: ukulele wall mount"/>
+    </outline>
+    <outline text="LEITURAS">
+      <outline text="LEITURAS: After Defense folder"/>
+      <outline text="LEITURAS: Python books"/>
+      <outline text="LEITURAS: Serrapilheira"/>
+      <outline text="LEITURAS: SOG Leituras 2019"/>
+      <outline text="LEITURAS: Springer free books"/>
+    </outline>
+    <outline text="PANDIVÁ">
+      <outline text="PANDIVÁ: interface de configuração"/>
+    </outline>
+    <outline text="PESQUISA">
+      <outline text="PESQUISA: analisar conferências ex: TEI"/>
+      <outline text="PESQUISA: curso e livro de Briot"/>
+      <outline text="PESQUISA: deep MIMO"/>
+      <outline text="PESQUISA: estudar MIDI 2.0 MPE"/>
+      <outline text="PESQUISA: estudar modularidade (livro)"/>
+      <outline text="PESQUISA: investigação sobre construção de sensores"/>
+      <outline text="PESQUISA: McPherson Bela Youtube"/>
+      <outline text="PESQUISA: MIDI lib para Python"/>
+      <outline text="PESQUISA: orientações"/>
+      <outline text="PESQUISA: processar o Pinterest"/>
+      <outline text="PESQUISA: Prophet"/>
+      <outline text="PESQUISA: Python GUI"/>
+      <outline text="PESQUISA: resgatar motivações em diagrama do Pinterest"/>
+      <outline text="PESQUISA: tangible mapper fichas de poker"/>
+    </outline>
+    <outline text="PROBATIO">
+      <outline text="PROBATIO: adicionar Acks no NIME 2020"/>
+      <outline text="PROBATIO: arquitetura do hub"/>
+      <outline text="PROBATIO: atualizar site com novas imagens"/>
+      <outline text="PROBATIO: brincar com marcas e tiles"/>
+      <outline text="PROBATIO: colar imãs nos bottoms"/>
+      <outline text="PROBATIO: documentação da montagem"/>
+      <outline text="PROBATIO: formular plano de versões"/>
+      <outline text="PROBATIO: fotos e vídeos da versão RECIFE"/>
+      <outline text="PROBATIO: funcionamento no max"/>
+      <outline text="PROBATIO: integração Wekinator"/>
+      <outline text="PROBATIO: modelar bellows"/>
+      <outline text="PROBATIO: modelar botão mola central"/>
+      <outline text="PROBATIO: modelar cradle 1x1"/>
+      <outline text="PROBATIO: modelar hand+pot+buttons"/>
+      <outline text="PROBATIO: modelar rotary foot controller"/>
+      <outline text="PROBATIO: montar cherry"/>
+      <outline text="PROBATIO: montar dual-pistons"/>
+      <outline text="PROBATIO: montar dummy blocks"/>
+      <outline text="PROBATIO: montar four-pistons"/>
+      <outline text="PROBATIO: montar four-thumbjoysticks"/>
+      <outline text="PROBATIO: montar joystick"/>
+      <outline text="PROBATIO: montar obsf-24"/>
+      <outline text="PROBATIO: montar obsf-30"/>
+      <outline text="PROBATIO: montar rotary"/>
+      <outline text="PROBATIO: mood board no Milanote"/>
+      <outline text="PROBATIO: mural de sensores (foto)"/>
+      <outline text="PROBATIO: nova base 1x1 pendurados"/>
+      <outline text="PROBATIO: nova base cano"/>
+      <outline text="PROBATIO: nova base sanfona"/>
+      <outline text="PROBATIO: novas bases"/>
+      <outline text="PROBATIO: organizar tutorial assembly instructions"/>
+      <outline text="PROBATIO: physical modeling faust + max"/>
+      <outline text="PROBATIO: pogo-pcb com conectores"/>
+      <outline text="PROBATIO: processar ideation session"/>
+      <outline text="PROBATIO: sensor Air"/>
+      <outline text="PROBATIO: sensor capacitive slider"/>
+      <outline text="PROBATIO: sensor capacitive touch"/>
+      <outline text="PROBATIO: sensor distance-based"/>
+      <outline text="PROBATIO: sensor hall effect pick inspired"/>
+      <outline text="PROBATIO: sensor LDR"/>
+      <outline text="PROBATIO: sensor string-based"/>
+      <outline text="PROBATIO: soldar mais pogo-pcbs"/>
+      <outline text="PROBATIO: tabela de endereços i2c"/>
+      <outline text="PROBATIO: timelapses and photos MTL"/>
+      <outline text="PROBATIO: two I2C masters"/>
+    </outline>
+    <outline text="PYTHON">
+      <outline text="PYTHON: dependencies"/>
+    </outline>
+    <outline text="SKILL">
+      <outline text="SKILL: Ableton Live"/>
+      <outline text="SKILL: desenho"/>
+      <outline text="SKILL: Eagle"/>
+      <outline text="SKILL: Fusion 360"/>
+      <outline text="SKILL: Git"/>
+      <outline text="SKILL: interfaces Web"/>
+      <outline text="SKILL: Jupyter"/>
+      <outline text="SKILL: Python"/>
+    </outline>
+    <outline text="SOG">
+      <outline text="SOG: artigo memória ncase.me"/>
+      <outline text="SOG: caderno ser, ter, fazer"/>
+      <outline text="SOG: CLI para lista unificada de processamento"/>
+      <outline text="SOG: lista para revisitações"/>
+      <outline text="SOG: listar critérios e percepções de produtividade"/>
+      <outline text="SOG: organizar Milanote"/>
+      <outline text="SOG: organizar o portfolio no CIn"/>
+      <outline text="SOG: organizar os HDs antigos"/>
+      <outline text="SOG: pensar em workflow de leitura/escrita"/>
+      <outline text="SOG: revisitar experiência Empretec"/>
+      <outline text="SOG: revisitar materiais do coaching"/>
+      <outline text="SOG: softwares para flash cards"/>
+      <outline text="SOG: ícones para organização pessoal"/>
+    </outline>
   </body>
 </opml>

@@ -8,4 +8,4 @@ for todo in todos:
     if(category not in categories):
         categories.append(category)
         output.write("# " + category + "\n")
-    output.write("## " + todo + "\n")
+    output.write(todo + "\n")

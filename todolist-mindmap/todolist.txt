@@ -28,7 +28,6 @@ ESCRITA: decks de parágrafos (intro, justificativa, problemas)
 ESCRITA: Grande Livro dos Parágrafos (GLP)
 ESCRITA: livro imaginário
 ESCRITA: parágrafo como card (título, conteúdo, refs)
-ESCRITA: Probatio para pesquisadores
 EXTENSÃO: projeto para liga acadêmica
 GIROMIN: Wifi Manager
 IDMIL: preencher projeto de cooperação
@@ -57,51 +56,6 @@ PESQUISA: Prophet
 PESQUISA: Python GUI
 PESQUISA: resgatar motivações em diagrama do Pinterest
 PESQUISA: tangible mapper fichas de poker
-PROBATIO: adicionar Acks no NIME 2020
-PROBATIO: arquitetura do hub
-PROBATIO: atualizar site com novas imagens
-PROBATIO: brincar com marcas e tiles
-PROBATIO: colar imãs nos bottoms
-PROBATIO: documentação da montagem
-PROBATIO: formular plano de versões
-PROBATIO: fotos e vídeos da versão RECIFE
-PROBATIO: funcionamento no max
-PROBATIO: integração Wekinator
-PROBATIO: modelar bellows
-PROBATIO: modelar botão mola central
-PROBATIO: modelar cradle 1x1
-PROBATIO: modelar hand+pot+buttons
-PROBATIO: modelar rotary foot controller
-PROBATIO: montar cherry
-PROBATIO: montar dual-pistons
-PROBATIO: montar dummy blocks
-PROBATIO: montar four-pistons
-PROBATIO: montar four-thumbjoysticks
-PROBATIO: montar joystick 
-PROBATIO: montar obsf-24
-PROBATIO: montar obsf-30
-PROBATIO: montar rotary
-PROBATIO: mood board no Milanote
-PROBATIO: mural de sensores (foto)
-PROBATIO: nova base 1x1 pendurados
-PROBATIO: nova base cano
-PROBATIO: nova base sanfona
-PROBATIO: novas bases
-PROBATIO: organizar tutorial assembly instructions
-PROBATIO: physical modeling faust + max
-PROBATIO: pogo-pcb com conectores
-PROBATIO: processar ideation session
-PROBATIO: sensor Air
-PROBATIO: sensor capacitive slider
-PROBATIO: sensor capacitive touch
-PROBATIO: sensor distance-based
-PROBATIO: sensor hall effect pick inspired
-PROBATIO: sensor LDR
-PROBATIO: sensor string-based
-PROBATIO: soldar mais pogo-pcbs
-PROBATIO: tabela de endereços i2c
-PROBATIO: timelapses and photos MTL
-PROBATIO: two I2C masters
 PYTHON: dependencies
 SKILL: Ableton Live
 SKILL: desenho
